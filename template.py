@@ -1,5 +1,5 @@
 #PLEASE WRITE THE GITHUB URL BELOW!
-#
+# https://github.com/yeeiing/oss_assignment2.git
 
 import sys # 명령인자값 받기
 
